@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2807
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Hale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22601#Hiawatha-and-the-Iroquois-ConfederationA-Study-in-Anthropology.-A-Paper-Read-at-the-Cincinnat_
 gutenberg_bookshelf:
 - Anthropology
 - Native America
