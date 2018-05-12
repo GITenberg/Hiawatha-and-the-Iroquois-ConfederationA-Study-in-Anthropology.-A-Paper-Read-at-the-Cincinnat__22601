@@ -1,0 +1,35 @@
+_repo: Hiawatha-and-the-Iroquois-ConfederationA-Study-in-Anthropology.-A-Paper-Read-at-the-Cincinnat__22601
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Horatio
+    birthdate: 1817
+    deathdate: 1896
+    gutenberg_agent_id: '2807'
+    url: http://www.gutenberg.org/2009/agents/2807
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Hale
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- Native America
+gutenberg_issued: '2007-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iroquois Indians'
+- !lcc 'E011'
+- !lcsh 'Hiawatha, active 15th century'
+title: 'Hiawatha and the Iroquois Confederation
+
+  A Study in Anthropology. A Paper Read at the Cincinnati Meeting of the American
+  Association for the Advancement of Science, in August, 1881, under the Title of
+  "A Lawgiver of the Stone Age."'
+url: http://www.gutenberg.org/ebooks/22601
